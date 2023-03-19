@@ -1,0 +1,54 @@
+name: recyclegram
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cached_network_image: ^3.2.1
+  flutter_svg: ^1.1.6
+  intl: ^0.17.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Rancho
+      fonts: 
+        - asset: assets/fonts/RanchoRegular.ttf
+          weight: 400
+    - family: Roboto
+      fonts: 
+        - asset: assets/fonts/RobotoRegular.ttf
+          weight: 400
+        - asset: assets/fonts/RobotoLight.ttf
+          weight: 300
+        - asset: assets/fonts/RobotoMedium.ttf
+          weight: 500
+        - asset: assets/fonts/RobotoBold.ttf
+          weight: 700
+        - asset: assets/fonts/RobotoMediumItalic.ttf
+          weight: 500
+        - asset: assets/fonts/RobotoItalic.ttf
+          weight: 400
+        - asset: assets/fonts/RobotoBlack.ttf
+          weight: 900
+        - asset: assets/fonts/RobotoThin.ttf
+          weight: 200
+    - family: PoetsenOne
+      fonts: 
+        - asset: assets/fonts/PoetsenOneRegular.ttf
+          weight: 400
+    - family: Roboto Slab
+      fonts: 
+        - asset: assets/fonts/RobotoSlabRegular.ttf
+          weight: 400
+    - family: Radley
+      fonts: 
+        - asset: assets/fonts/RadleyItalic.ttf
+          weight: 400
