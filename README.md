@@ -15,6 +15,10 @@ Navami Nair
 
 RecycleGram, is an all-in-one app, to safely dispose of non-biodegradable materials at the comfort of your home.
 
+---------INSTALLATION-----------
+
+Use the Recyclegram.apk file in the repository to install the app.
+
 The problem RecycleGram solves
 The initiatives taken by NGOs, if any, to collect non-biodegradable wastes from households and recycle is not being fully effective, due to the large number of households they have to cover and irregularity in their visits.
 Even now, not all people are aware of how and where non-biodegradable materials can be safely disposed.
